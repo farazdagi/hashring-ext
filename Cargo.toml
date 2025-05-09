@@ -1,0 +1,21 @@
+[package]
+name = "hashring-ext"
+version = "0.0.1"
+authors = ["Victor Farazdagi <farazdagi@gmail.com>"]
+edition = "2024"
+license = "MIT"
+description = "An extended consistent hashing algorithm"
+homepage = "https://github.com/farazdagi/hashring-ext"
+repository = "https://github.com/farazdagi/hashring-ext"
+documentation = "https://docs.rs/hashring-ext"
+readme = "README.md"
+keywords = [
+  "consistent",
+  "hash",
+  "hash-ring",
+  "hashring",
+  "ring",
+]
+categories = ["algorithms", "data-structures"]
+
+[dependencies]
